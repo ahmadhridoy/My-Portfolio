@@ -1,6 +1,6 @@
 import OpenToWork from '../components/OpenToWork';
 
-import ownImage from '../assets/own-3.jpeg';
+import ownImage from '../assets/own-3.jpg';
 import Social from '../components/Social';
 
 const HomeContent = () => {

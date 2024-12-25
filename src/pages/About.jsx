@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import own from '../assets/own-3.jpeg';
+import own from '../assets/own-3.jpg';
 import Button from '../components/Button';
 
 const About = () => {
