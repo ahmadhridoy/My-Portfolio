@@ -183,14 +183,7 @@ export const portfolioWorks = [
     desc: 'Car Rental Website',
     category: ['figma', 'react', 'tailwind'],
   },
-  {
-    src: sallonOne,
-    alt: 'sallon',
-    link: 'https://sr-sallon-one.netlify.app/',
-    title: 'Sallon & SPA Center',
-    desc: 'Sallon',
-    category: ['next', 'tailwind'],
-  },
+ 
   {
     src: mindFulBlog,
     alt: 'blog',
