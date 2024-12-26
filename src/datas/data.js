@@ -184,29 +184,22 @@ export const portfolioWorks = [
     category: ['figma', 'react', 'tailwind'],
   },
  
-  {
-    src: mindFulBlog,
-    alt: 'blog',
-    link: 'https://sr-blog-one.netlify.app/',
-    title: 'Mindful Blog App',
-    desc: 'Blog',
-    category: ['figma'],
-  },
-  {
-    src: quantumLearn,
-    alt: 'Quantum Learn',
-    link: 'https://quantum-learn.netlify.app/',
-    title: 'Quantum Learning',
-    desc: `LMS Website's Template`,
-    category: ['wordpress', 'figma', 'elementor', 'crocoblock', 'ecommerce'],
-  },
+  // {
+  //   src: mindFulBlog,
+  //   alt: 'blog',
+  //   link: 'https://sr-blog-one.netlify.app/',
+  //   title: 'Mindful Blog App',
+  //   desc: 'Blog',
+  //   category: ['figma'],
+  // },
+ 
   {
     src: agencyOne,
     alt: 'agency',
-    link: 'https://sr-blog-one.netlify.app/',
-    title: 'Agency Static Website',
-    desc: 'Wordpress',
-    category: ['wordpress','MongoDB'],
+    link: 'https://weather-app-master-nine.vercel.app/',
+    title: 'Weather app Website',
+    desc: 'See Update weather of your location',
+    category: ['react','tailwind'],
   },
   {
     src: nazalBd,
