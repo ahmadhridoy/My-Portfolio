@@ -178,7 +178,7 @@ export const portfolioWorks = [
   {
     src: carRental,
     alt: 'carrentalusa',
-    link: 'https://rent-a-ride-usa.netlify.app/',
+    link: 'https://car-rental-one-main.vercel.app/',
     title: 'Car Rental USA',
     desc: 'Car Rental Website',
     category: ['figma', 'react', 'tailwind'],
